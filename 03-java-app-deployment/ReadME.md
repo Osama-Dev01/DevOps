@@ -43,9 +43,9 @@ To verify the policy enforcement:
 - Deploy resources with the required label. They will work seamlessly.
 
 ## Benefits of the Kyverno Policy
-**Consistency**: Ensures all pods are labeled appropriately, making resource management easier.
-**Auditing**: Simplifies auditing by enforcing a consistent labeling strategy.
-**Automation**: Automates compliance checks, reducing manual errors.
+- **Consistency**: Ensures all pods are labeled appropriately, making resource management easier.
+- **Auditing**: Simplifies auditing by enforcing a consistent labeling strategy.
+- **Automation**: Automates compliance checks, reducing manual errors.
 
 ### How to View Policy Reports
 Kyverno generates reports to monitor resource compliance. To view these reports:
